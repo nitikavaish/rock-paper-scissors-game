@@ -20,4 +20,4 @@ This project lets users play against the computer and test their luck!
 - HTML5
 - CSS3
 - JavaScript (Vanilla JS)
-- 
+  
